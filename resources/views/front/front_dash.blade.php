@@ -1,6 +1,6 @@
 @extends('front-layouts.fmaster')
 @section('title')
-    Daily-Shop Home-page
+    Daily-Shop Home
 @endsection
 @section('content')
     <section id="aa-slider">
