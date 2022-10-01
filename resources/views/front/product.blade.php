@@ -1,12 +1,13 @@
 @extends('front-layouts.fmaster')
 @section('title')
-    Product-page
+    Product
 @endsection
 @section('content')
     <!-- product category -->
     <section id="aa-product-details">
         <div class="container">
             <div class="row">
+
                 <div class="col-md-12">
                     <div class="aa-product-details-area">
                         <div class="aa-product-details-content">
